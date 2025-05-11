@@ -5,19 +5,19 @@ import openl3
 import numpy as np
 import tensorflow as tf
 
-# gpus = tf.config.list_physical_devices('GPU')
-# if gpus:
-#     print(f"✓ GPU available: {gpus[0].name}", file=sys.stderr)
-# else: 
-#     print("WARN: No GPU detected. TensorFlow will run on CPU.", file=sys.stderr)
+gpus = tf.config.list_physical_devices('GPU')
+if gpus:
+    print(f"✓ GPU available: {gpus[0].name}", file=sys.stderr)
+else: 
+    print("WARN: No GPU detected. TensorFlow will run on CPU.", file=sys.stderr)
 
 # strict check for gpu 
-gpus = tf.config.list_physical_devices('GPU')
-if not gpus:
-    print("ERROR: No GPU detected.", file=sys.stderr)
-    sys.exit(1)
-else:
-    print(f"✓ GPU available: {gpus[0].name}", file=sys.stderr)
+# gpus = tf.config.list_physical_devices('GPU')
+# if not gpus:
+#     print("ERROR: No GPU detected.", file=sys.stderr)
+#     sys.exit(1)
+# else:
+#     print(f"✓ GPU available: {gpus[0].name}", file=sys.stderr)
 
 def get_embedding(audio_path):
     audio, sr = sf.read(audio_path)
