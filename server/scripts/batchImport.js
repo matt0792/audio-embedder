@@ -1,13 +1,26 @@
 import dotenv from "dotenv";
-dotenv.config();
+import path from "path";
+import { fileURLToPath } from "url";
+
+// Get the directory name of the current module
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Configure dotenv with the correct path to .env file
+dotenv.config({ path: path.resolve(__dirname, "../.env") });
 
 import fs from "fs";
-import path from "path";
 import pLimit from "p-limit";
+import { connectDB } from "../utils/db.js";
 import { processAndSaveTrack } from "../controllers/trackController.js";
 
-const folderPath = path.resolve("uploads/batch");
-const summaryOutputPath = path.resolve("uploads/batch_summary");
+connectDB().catch((err) => {
+  console.error("Failed to connect to MongoDB", err);
+  process.exit(1);
+});
+
+const folderPath = path.resolve("../uploads/batch");
+const summaryOutputPath = path.resolve("../uploads/batch_summary");
 const CONCURRENCY = 4;
 
 async function runBatchImport() {
@@ -29,6 +42,7 @@ async function runBatchImport() {
       const fullPath = path.join(folderPath, file);
       try {
         console.log(`Processing ${file}...`);
+        const start = Date.now();
         const result = await processAndSaveTrack(fullPath);
 
         if (result?._id) {
@@ -38,7 +52,7 @@ async function runBatchImport() {
             artist: result.artist,
             _id: result._id,
           });
-          console.log(`✓ Saved: ${result.name}`);
+          console.log(`✓ Saved: ${result.name} (took ${Date.now() - start}ms)`);
         } else {
           summary.skipped.push({ file, reason: "Duplicate or unknown error" });
           console.log(`→ Skipped: ${file}`);
