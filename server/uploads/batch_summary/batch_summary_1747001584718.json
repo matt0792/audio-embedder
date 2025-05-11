@@ -1,0 +1,347 @@
+{
+  "imported": [
+    {
+      "file": "Aaron Smith - Dancin (Krono remix) (feat. Luvli).mp3",
+      "name": "Dancin (Krono remix)",
+      "artist": "Aaron Smith",
+      "_id": "6820d7c0ff3a13e991092d24"
+    },
+    {
+      "file": "AC_DC - Back In Black.mp3",
+      "name": "Back In Black",
+      "artist": "AC/DC",
+      "_id": "6820d663ff3a13e991092d22"
+    },
+    {
+      "file": "Adele - Rolling in the Deep.mp3",
+      "name": "Rolling in the Deep",
+      "artist": "Adele",
+      "_id": "6820d868ff3a13e991092d25"
+    },
+    {
+      "file": "AC_DC - Thunderstruck.mp3",
+      "name": "Thunderstruck",
+      "artist": "AC/DC",
+      "_id": "6820d730ff3a13e991092d23"
+    },
+    {
+      "file": "Arctic Monkeys - I Wanna Be Yours.mp3",
+      "name": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "_id": "6820d9abff3a13e991092d27"
+    },
+    {
+      "file": "Arctic Monkeys - Do I Wanna Know_.mp3",
+      "name": "Do I Wanna Know",
+      "artist": "Arctic Monkeys",
+      "_id": "6820d928ff3a13e991092d26"
+    },
+    {
+      "file": "Avicii - Waiting For Love [blank].mp3",
+      "name": "Waiting For Love",
+      "artist": "Avicii",
+      "_id": "6820da4cff3a13e991092d28"
+    },
+    {
+      "file": "Avicii - Wake Me Up.mp3",
+      "name": "Wake Me Up",
+      "artist": "Avicii",
+      "_id": "6820db0eff3a13e991092d29"
+    },
+    {
+      "file": "Bastille - Pompeii.mp3",
+      "name": "Pompeii",
+      "artist": "Bastille",
+      "_id": "6820dbb2ff3a13e991092d2a"
+    },
+    {
+      "file": "Benson Boone - Beautiful Things.mp3",
+      "name": "Beautiful Things",
+      "artist": "Benson Boone",
+      "_id": "6820dc3bff3a13e991092d2b"
+    },
+    {
+      "file": "Black Coast - TRNDSTTR (Lucian Remix).mp3",
+      "name": "TRNDSTTR (Lucian Remix)",
+      "artist": "Black Coast",
+      "_id": "6820dcbbff3a13e991092d2c"
+    },
+    {
+      "file": "Caravan Palace - Lone Digger.mp3",
+      "name": "Lone Digger",
+      "artist": "Caravan Palace",
+      "_id": "6820dd37ff3a13e991092d2d"
+    },
+    {
+      "file": "Childish Gambino - This Is America.mp3",
+      "name": "This Is America",
+      "artist": "Childish Gambino",
+      "_id": "6820ddf8ff3a13e991092d2e"
+    },
+    {
+      "file": "Coldplay - Hymn for the Weekend.mp3",
+      "name": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "_id": "6820dec0ff3a13e991092d2f"
+    },
+    {
+      "file": "Coolio - Gangsta's Paradise (feat. L.V.).mp3",
+      "name": "Gangsta's Paradise",
+      "artist": "Coolio",
+      "_id": "6820df74ff3a13e991092d30"
+    },
+    {
+      "file": "David Kushner - Daylight.mp3",
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "_id": "6820e016ff3a13e991092d31"
+    },
+    {
+      "file": "Dead Or Alive - You Spin Me Round (Like a Record).mp3",
+      "name": "You Spin Me Round (Like a Record)",
+      "artist": "Dead Or Alive",
+      "_id": "6820e0a1ff3a13e991092d32"
+    },
+    {
+      "file": "Dr. Dre - The Next Episode (San Holo Remix).mp3",
+      "name": "The Next Episode (San Holo Remix)",
+      "artist": "Dr. Dre",
+      "_id": "6820e14bff3a13e991092d33"
+    },
+    {
+      "file": "Eagles - Hotel California (Live 1977) (Official Video) [HD].mp3",
+      "name": "Hotel California (Live 1977)",
+      "artist": "Eagles",
+      "_id": "6820e265ff3a13e991092d34"
+    },
+    {
+      "file": "Earth, Wind & Fire - September.mp3",
+      "name": "September",
+      "artist": "Earth, Wind & Fire",
+      "_id": "6820e2fcff3a13e991092d35"
+    },
+    {
+      "file": "Ed Sheeran - Shape of You.mp3",
+      "name": "Shape of You",
+      "artist": "Ed Sheeran",
+      "_id": "6820e3b2ff3a13e991092d36"
+    },
+    {
+      "file": "Fall Out Boy - Centuries.mp3",
+      "name": "Centuries",
+      "artist": "Fall Out Boy",
+      "_id": "6820e46eff3a13e991092d37"
+    },
+    {
+      "file": "Glass Animals - Heat Waves.mp3",
+      "name": "Heat Waves",
+      "artist": "Glass Animals",
+      "_id": "6820e5d5ff3a13e991092d39"
+    },
+    {
+      "file": "Fall Out Boy - Immortals (From Big Hero 6).mp3",
+      "name": "Immortals (From Big Hero 6)",
+      "artist": "Fall Out Boy",
+      "_id": "6820e51bff3a13e991092d38"
+    },
+    {
+      "file": "Gorillaz - Feel Good Inc..mp3",
+      "name": "Feel Good Inc.",
+      "artist": "Gorillaz",
+      "_id": "6820e692ff3a13e991092d3a"
+    },
+    {
+      "file": "Gotye - Somebody That I Used to Know (feat. Kimbra).mp3",
+      "name": "Somebody That I Used to Know (feat. Kimbra)",
+      "artist": "Gotye",
+      "_id": "6820e74bff3a13e991092d3b"
+    },
+    {
+      "file": "Home - Resonance.mp3",
+      "name": "Resonance",
+      "artist": "Home",
+      "_id": "6820e8c2ff3a13e991092d3d"
+    },
+    {
+      "file": "Green Day - Boulevard of Broken Dreams.mp3",
+      "name": "Boulevard of Broken Dreams",
+      "artist": "Green Day",
+      "_id": "6820e825ff3a13e991092d3c"
+    },
+    {
+      "file": "Hozier - Too Sweet.mp3",
+      "name": "Too Sweet",
+      "artist": "Hozier",
+      "_id": "6820e97cff3a13e991092d3e"
+    },
+    {
+      "file": "The White Stripes - Seven Nation Army (Live).mp3",
+      "name": "Seven Nation Army (Live)",
+      "artist": "The White Stripes",
+      "_id": "6820fa05ff7ab6b43edd5582"
+    },
+    {
+      "file": "TheFatRat - Unity.mp3",
+      "name": "Unity",
+      "artist": "TheFatRat",
+      "_id": "6820d5579456e55a0f9c94e2"
+    }
+  ],
+  "skipped": [],
+  "failed": [
+    {
+      "file": "Imagine Dragons - Demons.mp3"
+    },
+    {
+      "file": "Jetta - I'd Love to Change the World (Matstubs Remix).mp3"
+    },
+    {
+      "file": "Imagine Dragons - Radioactive.mp3"
+    },
+    {
+      "file": "Jéja & Cartoon - Why We Lose (feat. Coleman Trapp).mp3"
+    },
+    {
+      "file": "John Legend - All of Me.mp3"
+    },
+    {
+      "file": "John Newman - Love Me Again.mp3"
+    },
+    {
+      "file": "KALEO - Way Down We Go.mp3"
+    },
+    {
+      "file": "K_DA - POP_STARS (ft. Madison Beer, (G)I-DLE, Jaira Burns) _ Music Video - League of Legends.mp3"
+    },
+    {
+      "file": "Kansas - Carry On Wayward Son.mp3"
+    },
+    {
+      "file": "Katy Perry - Dark Horse (feat. Juicy J).mp3"
+    },
+    {
+      "file": "Khalid & Billie Eilish - lovely.mp3"
+    },
+    {
+      "file": "Kiss - I Was Made For Lovin' You.mp3"
+    },
+    {
+      "file": "Lil Nas X - Old Town Road (Official Video) (feat. Billy Ray Cyrus).mp3"
+    },
+    {
+      "file": "Lady Gaga & Bruno Mars - Die With A Smile.mp3"
+    },
+    {
+      "file": "Linkin Park - In the End.mp3"
+    },
+    {
+      "file": "Lana Del Rey - Summertime Sadness.mp3"
+    },
+    {
+      "file": "Linkin Park - Numb.mp3"
+    },
+    {
+      "file": "Lukas Graham - 7 Years.mp3"
+    },
+    {
+      "file": "Mark Ronson - Uptown Funk (feat. Bruno Mars).mp3"
+    },
+    {
+      "file": "Macklemore & Ryan Lewis - Can't Hold Us (feat. Ray Dalton).mp3"
+    },
+    {
+      "file": "Maroon 5 - Girls Like You (feat. Cardi B).mp3"
+    },
+    {
+      "file": "Martin Garrix - Animals.mp3"
+    },
+    {
+      "file": "Maroon 5 - Sugar.mp3"
+    },
+    {
+      "file": "Men At Work - Down Under.mp3"
+    },
+    {
+      "file": "Noisestorm - Crab Rave [Monstercat Release].mp3"
+    },
+    {
+      "file": "Michael Jackson - Billie Jean.mp3"
+    },
+    {
+      "file": "OneRepublic - Counting Stars.mp3"
+    },
+    {
+      "file": "Passenger - Let Her Go (Live from The Factory Theatre, Sydney).mp3"
+    },
+    {
+      "file": "Post Malone & Swae Lee - Sunflower (Spider-Man_ Into the Spider-Verse).mp3"
+    },
+    {
+      "file": "Rag'n'Bone Man - Human.mp3"
+    },
+    {
+      "file": "SIAMÉS - The Wolf.mp3"
+    },
+    {
+      "file": "The Chainsmokers & Coldplay - Something Just Like This.mp3"
+    },
+    {
+      "file": "The Rolling Stones - Paint It, Black.mp3"
+    },
+    {
+      "file": "The Neighbourhood - Sweater Weather.mp3"
+    },
+    {
+      "file": "The Weeknd - Blinding Lights.mp3"
+    },
+    {
+      "file": "The Weeknd - Save Your Tears.mp3"
+    },
+    {
+      "file": "The Weeknd - Starboy (feat. Daft Punk).mp3"
+    },
+    {
+      "file": "The Weeknd - The Hills.mp3"
+    },
+    {
+      "file": "Toto - Africa.mp3"
+    },
+    {
+      "file": "Unlike Pluto - Everything Black (feat. Mike Taylor).mp3"
+    },
+    {
+      "file": "Usher - Yeah! (feat. Lil Jon & Ludacris).mp3"
+    },
+    {
+      "file": "Vance Joy - Riptide.mp3"
+    },
+    {
+      "file": "Warriors (ft. Imagine Dragons) _ Worlds 2014 - League of Legends.mp3"
+    },
+    {
+      "file": "WALK THE MOON - Shut Up and Dance.mp3"
+    },
+    {
+      "file": "Wiz Khalifa - See You Again (feat. Charlie Puth).mp3"
+    },
+    {
+      "file": "You reposted in the wrong neighborhood (Full version).mp3"
+    },
+    {
+      "file": "[Drumstep] - Tristam & Braken - Flight [Monstercat Release].mp3"
+    },
+    {
+      "file": "[DnB] - Tristam & Braken - Frame of Mind [Monstercat Release].mp3"
+    },
+    {
+      "file": "twenty one pilots - Heathens.mp3"
+    },
+    {
+      "file": "twenty one pilots - Ride.mp3"
+    },
+    {
+      "file": "twenty one pilots - Stressed Out.mp3"
+    }
+  ],
+  "timestamp": "2025-05-11T22:12:49.804Z"
+}

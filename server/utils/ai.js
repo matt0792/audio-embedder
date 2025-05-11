@@ -1,4 +1,14 @@
 import OpenAI from "openai";
+import dotenv from "dotenv";
+import path from "path";
+import { fileURLToPath } from "url";
+
+// Get the directory name of the current module
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Configure dotenv with the correct path to .env file
+dotenv.config({ path: path.resolve(__dirname, "../.env") });
 
 const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,

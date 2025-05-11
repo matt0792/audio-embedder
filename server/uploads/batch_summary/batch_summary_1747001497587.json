@@ -1,0 +1,23 @@
+{
+  "imported": [
+    {
+      "file": "The White Stripes - Seven Nation Army (Live).mp3",
+      "name": "Seven Nation Army (Live)",
+      "artist": "The White Stripes",
+      "_id": "6820fa05ff7ab6b43edd5582"
+    }
+  ],
+  "skipped": [],
+  "failed": [
+    {
+      "file": "The Weeknd - Starboy (feat. Daft Punk).mp3"
+    },
+    {
+      "file": "The Weeknd - The Hills.mp3"
+    },
+    {
+      "file": "The Weeknd - Save Your Tears.mp3"
+    }
+  ],
+  "timestamp": "2025-05-11T22:11:36.214Z"
+}
